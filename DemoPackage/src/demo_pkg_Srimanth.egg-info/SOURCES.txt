@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+src/com/__init__.py
+src/com/srimanth/__init__.py
+src/com/srimanth/app1/__init__.py
+src/com/srimanth/app1/demo_pacakge.py
+src/demo_pkg_Srimanth.egg-info/PKG-INFO
+src/demo_pkg_Srimanth.egg-info/SOURCES.txt
+src/demo_pkg_Srimanth.egg-info/dependency_links.txt
+src/demo_pkg_Srimanth.egg-info/top_level.txt
