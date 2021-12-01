@@ -1,2 +1,2 @@
 # packageRepo
-python packing demo
+python package demo
